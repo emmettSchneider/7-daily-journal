@@ -1,4 +1,4 @@
-Daily Journal
+# Daily Journal
 
 The Daily Journal application will be your opportunity to take the concepts you learn in class, and practice with the exercises and apply them elaboratively throughout the course.
 
